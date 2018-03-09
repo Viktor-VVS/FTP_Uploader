@@ -1,0 +1,14 @@
+C:\Users\VIKTOR\source\repos\FTP_Uploader\FTP_Uploader\bin\Release\FTP_Uploader.exe.config
+C:\Users\VIKTOR\source\repos\FTP_Uploader\FTP_Uploader\bin\Release\FTP_Uploader.exe
+C:\Users\VIKTOR\source\repos\FTP_Uploader\FTP_Uploader\bin\Release\FTP_Uploader.pdb
+C:\Users\VIKTOR\source\repos\FTP_Uploader\FTP_Uploader\bin\Release\Ionic.Zip.dll
+C:\Users\VIKTOR\source\repos\FTP_Uploader\FTP_Uploader\obj\Release\MainWindow.baml
+C:\Users\VIKTOR\source\repos\FTP_Uploader\FTP_Uploader\obj\Release\MainWindow.g.cs
+C:\Users\VIKTOR\source\repos\FTP_Uploader\FTP_Uploader\obj\Release\App.g.cs
+C:\Users\VIKTOR\source\repos\FTP_Uploader\FTP_Uploader\obj\Release\FTP_Uploader_MarkupCompile.cache
+C:\Users\VIKTOR\source\repos\FTP_Uploader\FTP_Uploader\obj\Release\FTP_Uploader.g.resources
+C:\Users\VIKTOR\source\repos\FTP_Uploader\FTP_Uploader\obj\Release\FTP_Uploader.Properties.Resources.resources
+C:\Users\VIKTOR\source\repos\FTP_Uploader\FTP_Uploader\obj\Release\FTP_Uploader.csproj.GenerateResource.Cache
+C:\Users\VIKTOR\source\repos\FTP_Uploader\FTP_Uploader\obj\Release\FTP_Uploader.csproj.CoreCompileInputs.cache
+C:\Users\VIKTOR\source\repos\FTP_Uploader\FTP_Uploader\obj\Release\FTP_Uploader.exe
+C:\Users\VIKTOR\source\repos\FTP_Uploader\FTP_Uploader\obj\Release\FTP_Uploader.pdb
